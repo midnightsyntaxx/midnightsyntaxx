@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Achmad Fauzan Firdaus 👋
 
-<!--
-**midnightsyntaxx/midnightsyntaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang pelajar tingkat akhir yang antusias dengan dunia **Web Development** dan **Computer Science**. Saat ini saya sedang fokus memperdalam fundamental pemrograman dan membangun berbagai proyek digital.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tentang Saya
+- 🎓 Sedang menempuh pendidikan di bangku SMA (Lulus April 2026).
+- 💻 Sedang aktif mempelajari **HTML, CSS, JavaScript, dan Python**.
+- 🏆 Memiliki sertifikasi dasar **JavaScript** dan **Front-End Development** dari Dicoding.
+- ⚡ Selain coding, saya juga aktif dalam kegiatan fisik seperti **Taekwondo** dan **Marathon**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Mari Terhubung!
+- **LinkedIn:** [linkedin.com/in/fauzanfirdaus](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+- **Instagram:** [@your_username](https://instagram.com/YOUR_INSTAGRAM_URL)
+- **Email:** fauzan@example.com
+
+---
+*"Terus belajar dan konsisten adalah kunci."*
