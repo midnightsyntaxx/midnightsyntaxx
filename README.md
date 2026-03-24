@@ -23,12 +23,19 @@ Seorang pelajar tingkat akhir yang antusias dengan dunia **Web Development** dan
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midnightsyntaxx&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightsyntaxx&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=midnightsyntaxx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightsyntaxx&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightsyntaxx&theme=tokyonight&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midnightsyntaxx&theme=tokyonight" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📫 Mari Terhubung!
