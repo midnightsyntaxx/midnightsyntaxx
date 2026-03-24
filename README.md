@@ -1,6 +1,6 @@
 # Hi there, I'm Achmad Fauzan Firdaus 👋
 
-Seorang pelajar tingkat akhir yang antusias dengan dunia **Web Development** dan **Computer Science**. Saat ini saya sedang fokus memperdalam fundamental pemrograman dan membangun berbagai proyek digital.
+Seorang pelajar tingkat akhir yang berdedikasi untuk menjadi Software Engineer. Saya memiliki ketertarikan mendalam pada Computer Science dan saat ini fokus membangun fondasi kuat dalam pengembangan perangkat lunak serta logika pemrograman.
 
 ---
 
@@ -23,19 +23,16 @@ Seorang pelajar tingkat akhir yang antusias dengan dunia **Web Development** dan
 
 ---
 
-### 📊 GitHub Stats & Contributions
+  ### 📊 GitHub Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midnightsyntaxx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightsyntaxx&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=midnightsyntaxx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightsyntaxx&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=midnightsyntaxx&theme=tokyonight" alt="GitHub Streak" />
+  </p>
+ </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightsyntaxx&theme=tokyonight&area=true&color=3498db" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midnightsyntaxx&theme=tokyonight" alt="GitHub Streak" />
-</p>
 ---
 
 ### 📫 Mari Terhubung!
