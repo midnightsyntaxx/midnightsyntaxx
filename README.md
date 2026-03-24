@@ -1,4 +1,4 @@
-# Hi there, I'm Achmad Fauzan Firdaus 👋
+# Hi there, I'm Midnight 👋
 
 Seorang pelajar tingkat akhir yang berdedikasi untuk menjadi Software Engineer. Saya memiliki ketertarikan mendalam pada Computer Science dan saat ini fokus membangun fondasi kuat dalam pengembangan perangkat lunak serta logika pemrograman.
 
