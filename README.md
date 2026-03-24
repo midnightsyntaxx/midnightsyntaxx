@@ -30,7 +30,7 @@ Seorang pelajar tingkat akhir yang antusias dengan dunia **Web Development** dan
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightsyntaxx&theme=tokyonight&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightsyntaxx&theme=tokyonight&area=true&color=3498db" alt="Activity Graph" />
 </p>
 
 <p align="center">
